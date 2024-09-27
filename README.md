@@ -18,17 +18,20 @@ Bu Flutter uygulaması, kullanıcıların çeşitli yemek tariflerini keşfetmes
 
 Aşağıda uygulamadan bazı ekran görüntülerini bulabilirsiniz:
 
-![Ana Ekran](assets/images/home_screen.png)
-*Ana ekran görüntüsü*
-
-![Kategori Ekranı](assets/images/category_screen.png)
+![Kategori Ekranı](assets/images/categories.png)
 *Yemek kategorileri ekranı*
 
-![Yemek Detay](assets/images/meal_detail.png)
+![Yemek Ekranı](assets/images/meals.png)
+*Yemek ekranı*
+
+![Yemek Detay](assets/images/meal_details.png)
 *Yemek tarifi detayı ekranı*
 
-![Favoriler Ekranı](assets/images/favorites_screen.png)
+![Favoriler Ekranı](assets/images/favorites.png)
 *Favoriler ekranı*
+
+![Filtre Ekranı](assets/images/filters.png)
+*Yemek filtre ekranı*
 
 ## Kurulum
 
