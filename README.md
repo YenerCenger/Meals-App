@@ -18,17 +18,20 @@ Bu Flutter uygulaması, kullanıcıların çeşitli yemek tariflerini keşfetmes
 
 Aşağıda uygulamadan bazı ekran görüntülerini bulabilirsiniz:
 
-<img src="assets/images/home_screen.png" alt="Ana Ekran" width="300"/>
-*Ana ekran görüntüsü*
-
-<img src="assets/images/category_screen.png" alt="Kategori Ekranı" width="300"/>
+![Kategori Ekranı](assets/images/categories.png)
 *Yemek kategorileri ekranı*
 
-<img src="assets/images/meal_detail.png" alt="Yemek Detay" width="300"/>
+![Yemek Ekranı](assets/images/meals.png)
+*Yemek ekranı görüntüsü*
+
+![Yemek Detay](assets/images/meal_details.png)
 *Yemek tarifi detayı ekranı*
 
-<img src="assets/images/favorites_screen.png" alt="Favoriler Ekranı" width="300"/>
+![Favoriler Ekranı](assets/images/favorites.png)
 *Favoriler ekranı*
+
+![Filtre Ekran](assets/images/home_screen.png)
+*Filtre ekranı görüntüsü*
 
 ## Kurulum
 
@@ -91,17 +94,20 @@ This Flutter application allows users to discover various meal recipes and view 
 
 Below are some screenshots from the app:
 
-<img src="assets/images/home_screen.png" alt="Home Screen" width="300"/>
-*Home screen image*
+![Categories Screen](assets/images/categories.png)
+*Categories Screen*
 
-<img src="assets/images/category_screen.png" alt="Category Screen" width="300"/>
-*Meal categories screen*
+![Meals Screen](assets/images/meals.png)
+*Meals Screen*
 
-<img src="assets/images/meal_detail.png" alt="Meal Detail" width="300"/>
-*Meal detail screen*
+![Meal Details Screen](assets/images/meal_details.png)
+*Meal Details Screen*
 
-<img src="assets/images/favorites_screen.png" alt="Favorites Screen" width="300"/>
-*Favorites screen*
+![Favorites Screen](assets/images/favorites.png)
+*Favorites Screen*
+
+![Filters Screen](assets/images/home_screen.png)
+*Filters Screen*
 
 ## Installation
 
