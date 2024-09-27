@@ -18,20 +18,17 @@ Bu Flutter uygulaması, kullanıcıların çeşitli yemek tariflerini keşfetmes
 
 Aşağıda uygulamadan bazı ekran görüntülerini bulabilirsiniz:
 
-![Kategori Ekranı](assets/images/categories.png)
+<img src="assets/images/home_screen.png" alt="Ana Ekran" width="300"/>
+*Ana ekran görüntüsü*
+
+<img src="assets/images/category_screen.png" alt="Kategori Ekranı" width="300"/>
 *Yemek kategorileri ekranı*
 
-![Yemek Ekranı](assets/images/meals.png)
-*Yemek ekranı*
-
-![Yemek Detay](assets/images/meal_details.png)
+<img src="assets/images/meal_detail.png" alt="Yemek Detay" width="300"/>
 *Yemek tarifi detayı ekranı*
 
-![Favoriler Ekranı](assets/images/favorites.png)
+<img src="assets/images/favorites_screen.png" alt="Favoriler Ekranı" width="300"/>
 *Favoriler ekranı*
-
-![Filtre Ekranı](assets/images/filters.png)
-*Yemek filtre ekranı*
 
 ## Kurulum
 
@@ -94,16 +91,16 @@ This Flutter application allows users to discover various meal recipes and view 
 
 Below are some screenshots from the app:
 
-![Home Screen](assets/images/home_screen.png)
+<img src="assets/images/home_screen.png" alt="Home Screen" width="300"/>
 *Home screen image*
 
-![Category Screen](assets/images/category_screen.png)
+<img src="assets/images/category_screen.png" alt="Category Screen" width="300"/>
 *Meal categories screen*
 
-![Meal Detail](assets/images/meal_detail.png)
+<img src="assets/images/meal_detail.png" alt="Meal Detail" width="300"/>
 *Meal detail screen*
 
-![Favorites Screen](assets/images/favorites_screen.png)
+<img src="assets/images/favorites_screen.png" alt="Favorites Screen" width="300"/>
 *Favorites screen*
 
 ## Installation
@@ -141,4 +138,8 @@ Below are some screenshots from the app:
 
 ## Contributing
 
-If you want to contribute to this project, please open a pull request. Before making
+If you want to contribute to this project, please open a pull request. Before making significant changes, please open a discussion in the Issues section.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). For more information, see the [LICENSE](LICENSE) file.
